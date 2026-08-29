@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year B.Tech Computer Science Engineering student with a strong interest in programming<br><br>My interests include:<br><br>Programming and problem-solving<br><br>Working as a team<br><br>AI and Web development<br><br>I prefer learning by doing practical work and am seeking an entry level opportunity in a reputed IT company
+I’m a B.Tech Computer Science Engineering graduate with a strong interest in Data Analytics.<br><br>My interests include:<br><br>Data Analysis and problem-solving<br><br>Working with data and creating meaningful insights<br><br>Working as a team<br><br>Data visualization and analytical tools<br><br>I prefer learning by doing practical work and am seeking an entry-level opportunity in a reputed IT company where I can build my skills and grow as a Data Analyst.
 
 
 ## 🌐 Socials:
