@@ -1,10 +1,16 @@
 # 💫 About Me:
 I’m a B.Tech Computer Science Engineering graduate with a strong interest in Data Analytics.<br>
+
 My interests include:<br>
+
 Data Analysis and problem-solving<br>
+
 Working with data and creating meaningful insights<br>
+
 Working as a team<br>
+
 Data visualization and analytical tools<br>
+
 I prefer learning by doing practical work and am seeking an entry-level opportunity in a reputed IT company where I can build my skills and grow as a Data Analyst.
 
 
